@@ -5,8 +5,8 @@ Welcome to the Time Series Forecasting Project, a thoughtfully crafted repositor
 🌟 Why This Project Stands Out
 
 This project is more than just code—it’s a complete journey into the fascinating world of forecasting. Whether you're an aspiring data scientist, a seasoned analyst, or simply a curious mind, this repository will empower you with essential tools and techniques to unlock the hidden stories in your data.
-📌 Key Features
 
+📌 Key Features
 1. Comprehensive Learning
    - Explore the fundamentals of time series analysis and progress to advanced forecasting methods.  
    - Understand key concepts like seasonality, trend analysis, and stationarity through hands-on examples.
