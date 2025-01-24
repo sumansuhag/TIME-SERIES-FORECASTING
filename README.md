@@ -30,23 +30,21 @@ This project is more than just code—it’s a complete journey into the fascina
 💻 Getting Started
 
 1. Clone the repository and set up the environment:  
-   ```bash
-   git clone https://github.com/sumansuhag/Time-Series-Forecasting.git  
+   https://github.com/sumansuhag/TIME-SERIES-FORECASTING/blob/main/Time%20series%20forcasting%20project-checkpoint.ipynb
    cd Time-Series-Forecasting  
    python -m venv env  
    env\Scripts\activate  # Windows  
    source env/bin/activate  # macOS/Linux  
    pip install -r requirements.txt  
-   ```
+
 2. Run the project:  
    Launch the Jupyter Notebook to begin your exploration:  
-   ```bash
    jupyter notebook Time_Series_Forecasting.ipynb
 
 3.Bring Your Data:  
    Use the included dataset or replace it with your own time series data to customize the analysis and forecasts.
+   
 🔍 What’s Inside
-
 1. Data Preparation:  
    - Clean, preprocess, and transform data for forecasting.  
 2. Analysis and Insights:  
@@ -59,7 +57,6 @@ This project is more than just code—it’s a complete journey into the fascina
    - Evaluate forecasting accuracy using metrics like RMSE, MAE, and MAPE.
 
 🌈 Inspiring Possibilities
-
 This project is your gateway to understanding the rhythm of data and using it to predict the unknown. Imagine:  
 - Anticipating future sales to optimize inventory.  
 - Forecasting weather patterns to aid agricultural planning.  
