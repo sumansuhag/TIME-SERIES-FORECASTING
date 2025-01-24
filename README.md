@@ -1,4 +1,4 @@
-Time Series Forecasting Project: Harnessing the Power of Data to Predict the Future**
+Time Series Forecasting Project: Harnessing the Power of Data to Predict the Future
 
 Welcome to the Time Series Forecasting Project, a thoughtfully crafted repository designed to transform historical data into actionable insights. By mastering the art of time series analysis, you’ll be able to predict trends, identify patterns, and make data-driven decisions that can shape the future.
 
