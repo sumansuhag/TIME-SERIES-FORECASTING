@@ -30,7 +30,7 @@ This project is more than just code—it’s a complete journey into the fascina
 💻 Getting Started
 
 1. Clone the repository and set up the environment:  
-   https://github.com/sumansuhag/TIME-SERIES-FORECASTING/blob/main/Time%20series%20forcasting%20project-checkpoint.ipynb
+   https://colab.research.google.com/drive/1L9031qpkuJJqBa9yVjW6A4qSTpiLmq1g
    cd Time-Series-Forecasting  
    python -m venv env  
    env\Scripts\activate  # Windows  
